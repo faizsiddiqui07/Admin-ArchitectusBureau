@@ -232,7 +232,7 @@ const AdminIndex = () => {
                       <td className="px-3 md:px-6 py-4 whitespace-nowrap">
                         <div className="flex items-center gap-2">
                           <Link
-                            to={`http://localhost:5173/category/${project.slug}`}
+                            to={`https://architectusbureau.com/category/category/${project.slug}`}
                             target="_blank"
                             className="p-2 xxs:p-3 bg-gradient-to-r from-green-500 to-green-600 text-white rounded-xl hover:from-green-600 hover:to-green-700 transition-all duration-200 shadow-sm hover:shadow-md group/action"
                             title="View Project"

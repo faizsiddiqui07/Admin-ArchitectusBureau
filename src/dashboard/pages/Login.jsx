@@ -64,7 +64,7 @@ const Login = () => {
       <div className="relative w-full max-w-md">
         {/* Login Card */}
         <div className="bg-white/80 backdrop-blur-lg rounded-2xl shadow-2xl border border-white/20 overflow-hidden">
-          <div className="p-8">
+          <div className="p-4 xs:p-6 sm:p-8">
             {/* Header */}
             <div className="text-center mb-8">
               <div className=" mb-4 flex items-center justify-center">
